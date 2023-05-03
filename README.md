@@ -18,10 +18,10 @@
 | `brew cleanup`| This command will allow you to clean up Homebrew. |
 | `brew doctor` | This command will allow you to diagnose problems with Homebrew.  |
 | `brew install <package>`  | This command will allow you to install a package. For example, if you type `brew install wget`, your computer will install the wget package. |
-| `brew list`   | This command will allow you to view all installed packages. For example, if you type `brew list`, your computer will show you all installed packages. |
+| `brew list`   | This command will allow you to view all installed packages. |
 | `brew uninstall <package>` | This command will allow you to uninstall a package. For example, if you type `brew uninstall wget`, your computer will uninstall the wget package. |
-| `brew update` | This command will allow you to update Homebrew. For example, if you type `brew update`, your computer will update Homebrew. |
-| `brew upgrade`| This command will allow you to upgrade all installed packages. For example, if you type `brew upgrade`, your computer will upgrade all installed packages.|
+| `brew update` | This command will allow you to update Homebrew. |
+| `brew upgrade`| This command will allow you to upgrade all installed packages. |
 | `caffeinate` | This command will prevent your computer from going to sleep. For example, if you type `caffeinate`, your computer will stay awake until you type `control + c`.  |
 | `cat` | Concatenate and print files.|
 | `cd` | This command will allow you to change directories. For example, if you type `cd Desktop`, your computer will change to the Desktop directory.     |
